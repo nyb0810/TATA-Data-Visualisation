@@ -15,8 +15,8 @@ A meeting with the CEO and CMO has been scheduled for next month and you need to
 Remember, thinking from the perspective of business leaders allows you to analyse the data more effectively and present better insights.
 
 Access the links in the resources below to better understand how business leaders think and approach business performance.
-**
-Details for task**
+
+**Details for task**
 
 To prepare for your meeting, you need to draft questions that you think will be important and relevant to the CEO and CMO. This preparation will be your guide as you develop your presentation.
 
@@ -28,7 +28,7 @@ Create a set of four questions that you anticipate each business leader will ask
 
 Eight (8) questions in total (4 for the CEO and 4 for the CMO)
 
-[Task 2 - Choosing the Right Visuals]([url](https://github.com/nyb0810/TATA-Data-Visualisation/blob/a17e8c9d119ac1d3b2ab791fce8a479aa1629783/Task%202%20Choosing%20the%20Right%20Visuals.pdf))
+[**Task 2 - Choosing the Right Visuals**]([url](https://github.com/nyb0810/TATA-Data-Visualisation/blob/a17e8c9d119ac1d3b2ab791fce8a479aa1629783/Task%202%20Choosing%20the%20Right%20Visuals.pdf))
 Learn which visuals are most effective in a given scenario
 
 **Background info and context**
@@ -45,7 +45,7 @@ You will be provided resources on how to select visuals based on the different s
 
 To complete this task, answer the multiple-choice quiz. Start the quiz by clicking 'Click here to start the task' in section 5 below. Please note there are 5 multiple choice questions to complete in this task. Please be patient as each question loads.
 
-[Task 3 - Creating Effective Visuals]([url](https://github.com/nyb0810/TATA-Data-Visualisation/blob/a17e8c9d119ac1d3b2ab791fce8a479aa1629783/Task%203%20Creating%20Effective%20Visuals.pdf))
+[**Task 3 - Creating Effective Visuals**]([url](https://github.com/nyb0810/TATA-Data-Visualisation/blob/a17e8c9d119ac1d3b2ab791fce8a479aa1629783/Task%203%20Creating%20Effective%20Visuals.pdf))
 Apply your under and create visuals based on business scenarios
 
 **Background info and context**
@@ -80,24 +80,23 @@ The CEO of the retail store is interested to view the time series of the revenue
 
 The CMO is interested in viewing the top 10 countries which are generating the highest revenue. Additionally, the CMO is also interested in viewing the quantity sold along with the revenue generated. The CMO does not want to have the United Kingdom in this visual.
 
-**Question 3
-**
+**Question 3**
 The CMO of the online retail store wants to view the information on the top 10 customers by revenue. He is interested in a visual that shows the greatest revenue generating customer at the start and gradually declines to the lower revenue generating customers. The CMO wants to target the higher revenue generating customers and ensure that they remain satisfied with their products.
 
 **Question 4**
 
 The CEO is looking to gain insights on the demand for their products. He wants to look at all countries and see which regions have the greatest demand for their products. Once the CEO gets an idea of the regions that have high demand, he will initiate an expansion strategy which will allow the company to target these areas and generate more business from these regions. He wants to view the entire data on a single view without the need to scroll or hover over the data points to identify the demand. There is no need to show data for the United Kingdom as the CEO is more interested in viewing the countries that have expansion opportunities.
 
-[Task 4 - Communicating Insights and Analysis]([url](https://github.com/nyb0810/TATA-Data-Visualisation/blob/a17e8c9d119ac1d3b2ab791fce8a479aa1629783/Task%204%20Communicating%20Insights%20and%20Analysis.mp4))
+[**Task 4 - Communicating Insights and Analysis**]([url](https://github.com/nyb0810/TATA-Data-Visualisation/blob/a17e8c9d119ac1d3b2ab791fce8a479aa1629783/Task%204%20Communicating%20Insights%20and%20Analysis.mp4))
 Effectively communicate your findings and explain how it relates to each scenario
 
-**Background info and context
-**
+**Background info and context**
+
 It’s time to present your findings to the CEO and CMO. They are interested in your thought process and how you have handled the data cleanup and visualisation phase. It is important to explain your thought process and ideas in a clear and straightforward way. You are also required to clearly present the analysis of all four questions from the previous task. Make sure you are well versed with the data and the conclusions you’ve made from your analysis.
 
 Expansion is top of mind for these leaders and they’re keen to understand where the most lucrative opportunities are in their business.
-**
-Details for task**
+
+**Details for task**
 
 Develop a script and record a video presenting your findings to the CEO and CMO based on the four questions they asked and the visuals you created in the previous tasks.
 
